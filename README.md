@@ -27,12 +27,13 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Buenas, me llamo Luca, este es mi tercer cuatrimestre cursando esta carrera en esta universidad. Anteriormente cursaba Ingenieria en informatica en otra universiada, sin embargo no me gusto como enseñaban los profesores decidi dejar la carrera y cambiarme a esta universidad.
 
-Me gusta ...
+Elegi esta carrera ya que desde chico siempre me intereso la informatica, y por lo poco que vi de programacion en mi anterior universidad. Actualmente me siento muy comodo programando y estoy seguro que es la carrera que quiero seguir.
 
-Me dedico a / Trabajo de ...
+Ademas de la programacion me gustan los video juegos, el anime y los deportes de combate como el boxeo, sin embargo por el momento no lo practico, aunque me gustaria. La mayoria del tiempo libre que tengo lo uso para ver series, jugar a algo, hacer un poco de ejercicio o salir con amigos.
 
-Les dejo una imagen mía 
+Actualmente no trabajo, ya que quiero centrarme en la universidad. 
 
-![subir archivo de imagen](imagen.jpg)
+
+![322901181_3323803267875679_1538264197840226599_n](https://github.com/obj1-unahur-2023s2/presentacionpersonal-LucaLaFuente/assets/141644675/3aadbc9d-a192-4ef2-a8c0-5d4cb2aed2a7)
